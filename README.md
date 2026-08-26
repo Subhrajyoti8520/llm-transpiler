@@ -11,8 +11,6 @@
 
 <img src="assets/ui.png" alt="LLM Transpiler UI" width="800"/>
 
----
-```markdown
 ## 📖 Table of Contents
 * [⚡ Overview](#-overview)
 * [✨ Key Features](#-key-features)
@@ -25,7 +23,7 @@
   * [Installation](#installation)
   * [Usage](#usage)
 * [📝 License](#-license)
-```
+
 ---
 
 ## ⚡ Overview
