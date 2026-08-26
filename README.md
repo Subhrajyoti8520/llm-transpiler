@@ -11,18 +11,21 @@
 
 <img src="assets/ui.png" alt="LLM Transpiler UI" width="800"/>
 
+---
 ```markdown
 ## 📖 Table of Contents
-- [Architecture Diagram](#-architecture-diagram)
-- [How It Works (Under the Hood)](#-how-it-works-under-the-hood)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Configure the Environment](#configure-the-environment)
-- [Usage](#usage)
-- [License](#-license)
+* [⚡ Overview](#-overview)
+* [✨ Key Features](#-key-features)
+* [📊 Performance Benchmarks](#-performance-benchmarks)
+* [🏗️ Repository Structure](#️-repository-structure)
+* [🏗️ Architecture Diagram](#️-architecture-diagram)
+* [⚙️ How It Works (Under the Hood)](#️-how-it-works-under-the-hood)
+* [🚀 Getting Started](#-getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Usage](#usage)
+* [📝 License](#-license)
 ```
-
 ---
 
 ## ⚡ Overview
