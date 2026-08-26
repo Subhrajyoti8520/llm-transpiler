@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated binaries and build artifacts from the transpiler
+main
+main.exe
+*.pdb
+*.ilk
+*.o
+*.obj
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
