@@ -145,4 +145,4 @@ python app.py
   
 ---
 ## 📝 License
-This project is MIT licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
