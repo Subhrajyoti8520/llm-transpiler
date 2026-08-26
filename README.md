@@ -48,7 +48,7 @@ When testing compute-heavy workloads (like the 1-Billion loop iteration Linear C
 
 | Python vs C++ Runtime | Python vs Rust Runtime |
 | :---: | :---: |
-| <img src="assets/python_vs_cpp_runtime.png" alt="Python vs C++ Runtime" width="400"/> | <img src="assets/python_vs_rust_runtime.png" alt="Python vs Rust Runtime" width="400"/> |
+| <img src="assets/python_vs_cpp_runtime.png" alt="Python vs C++ Runtime" width="400"/> | <img src="assets/rust_vs_python_runtime.png" alt="Python vs Rust Runtime" width="400"/> |
 | <img src="assets/corresponding_cpp_code.png" alt="Generated C++ Code" width="400"/> | <img src="assets/corresponding_rust_code.png" alt="Generated Rust Code" width="400"/> |
 
 ---
